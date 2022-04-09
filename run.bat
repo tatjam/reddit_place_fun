@@ -1,0 +1,1 @@
+C:\nim-1.6.4_x64\nim-1.6.4\bin\nim r -d:release --opt:speed simp.nim
